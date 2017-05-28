@@ -1,0 +1,20 @@
+.main {
+  display:table-row;
+  font-family:verdana;
+  font-size:12px;
+  padding:2px;
+}
+
+.first-column {
+  width:90px;
+  display:table-cell;
+  background-color:#DDD;
+  border:1px solid #000;
+}
+
+.second-column {
+  width: 180px;
+  display: table-cell;
+  background-color: #F2F2F2;
+  border:1px solid red;
+}
