@@ -1,4 +1,4 @@
-# equal_height_columns
+# Equal height for adjacent columns
 
 Basic useful feature list:
 
