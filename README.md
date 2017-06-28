@@ -15,4 +15,4 @@ For any clarifications please download this repo or fork and try from your end.
 ```
 
 ### OUTPUT
->![ScreenShot](https://cloud.githubusercontent.com/assets/6780840/26531063/fd35556a-43fe-11e7-8508-08865553d4bc.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/6780840/26531063/fd35556a-43fe-11e7-8508-08865553d4bc.png)
