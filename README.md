@@ -10,8 +10,55 @@ Basic useful feature list:
 
 To work on this you need simple HTML and CSS file. enough :)
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Equal column heights</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<div class="main">
+		<div class="first-column">
+			A<br/>
+			B<br/>
+			C<br/>
+			D<br/>
+			E<br/>
+			F<br/>
+			G<br/>
+		</div>
+		<div class="second-column">
+			Some content!
+		</div>
+	</div>
+</body>
+</html>
 ```
-For any clarifications please download this repo or fork and try from your end. 
+
+```css
+.main {
+  display:table-row;
+  font-family:verdana;
+  font-size:12px;
+  padding:2px;
+}
+
+.first-column {
+  width:90px;
+  display:table-cell;
+  background-color:#DDD;
+  border:1px solid #000;
+}
+
+.second-column {
+  width: 180px;
+  display: table-cell;
+  background-color: #F2F2F2;
+  border:1px solid red;
+}
 ```
 
 ### OUTPUT
