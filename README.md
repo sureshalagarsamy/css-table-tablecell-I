@@ -10,7 +10,7 @@ Basic useful feature list:
 
 To work on this you need simple HTML and CSS file. enough :)
 
-```javascript
+```
 For any clarifications please download this repo or fork and try from your end. 
 ```
 
